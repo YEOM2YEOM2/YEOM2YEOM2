@@ -28,16 +28,29 @@
     </div>
   </p>
 </div>
+<hr>
 <div>
   <h3>🤹‍♀️ Algorithm</h3>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duswl0220">
 </div>
 <div>
-  <h3>🤹‍♀📑 Git Information</h3>
+  <h3>📑 Git Information</h3>
   <p>
   <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEOM2YEOM2&layout=donut&theme=radical">
   <img width=500 src="https://streak-stats.demolab.com?user=YEOM2YEOM2&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D">
   </p>
+</div>
+<hr>
+<div>
+  <h3>🎮 Activities</h3>
+  
+  |Organization|Activity|Position|Achieve|Date|
+  |:---:|:---:|:---:|:---:|:---:|
+  |SSAFY 9기|SAMSUNG SW ACADEMY FOR YOURTH|Trainee|참여 중|2023|
+  |SSAFY 9기|SSAFY 관통 프로젝트, 영화 추천 SNS[Moolog]|Team Leader|완료|2023.05.15~2023.05.26|
+  |SSAFY 9기|SSAFY 공통 프로젝트, SSAFY인을 위한 특화 화상 프로그램[WEFFY]|Team Member|완료|2023.07.04~2023.08.18|
+  |SSAFY 9기|SSAFY 특화 프로젝트, 실어증 환자 재활 프로그램 서비스[내쉬다]|Team Member|완료|2023.08.21~2023.10.06|
+  |SSAFY 9기|SSAFY 자율 프로젝트, 마음을 전하는 아날로그 AR 편지 서비스[마음길]|Team Member|참여 중|2023.10.10~|
 </div>
 
 
