@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient&customColorList=0,2,2,5,30)&text=I'M%20YEONJI!&fontSize=40&fontAlign=85&fontAlignY=15&rotate=8&animation=blink&desc=Developer's%20GitHub&descAlign=87&descAlignY=40&"/>
-
 <div>
   <p align="center">
     <h3>⚙ Tech Stack</h3>
@@ -29,6 +28,16 @@
     </div>
   </p>
 </div>
+<div>
+  <h3>🤹‍♀️ Algorithm</h3>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duswl0220">
+</div>
+<div>
+  <h3>🤹‍♀📑 Git Information</h3>
+  <p>
+  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEOM2YEOM2&layout=donut&theme=radical">
+  <img width=500 src="https://streak-stats.demolab.com?user=YEOM2YEOM2&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D">
+  </p>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEOM2YEOM2&layout=compact"><br><br>
 
