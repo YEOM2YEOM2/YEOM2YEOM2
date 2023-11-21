@@ -53,7 +53,7 @@
   
   |Organization|Activity|Position|Achieve|Date|
   |:---:|:---:|:---:|:---:|:---:|
-  |SSAFY 9기|SAMSUNG SW ACADEMY FOR YOURTH|Trainee|참여 중|2023.01.04|
+  |SSAFY 9기|SAMSUNG SW ACADEMY FOR YOURTH|Trainee|참여 중|2023.01.04 ~|
   |SSAFY 9기|SSAFY 관통 프로젝트, 영화 추천 SNS[Moolog]|Team Leader<br> BE, 기획, 디자인|완료|2023.05.15~2023.05.26|
   |SSAFY 9기|SSAFY 공통 프로젝트, SSAFY인을 위한 특화 화상 프로그램[WEFFY]|Team Member<br> FE, 기획, 디자인|완료|2023.07.04~2023.08.18|
   |SSAFY 9기|SSAFY 특화 프로젝트, 실어증 환자 재활 프로그램 서비스[내쉬다]|Team Member<br> BE, 기획|완료|2023.08.21~2023.10.06|
