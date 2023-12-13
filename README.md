@@ -60,5 +60,7 @@
   |SSAFY 9기|SSAFY 자율 프로젝트, 마음을 전하는 아날로그 AR 편지 서비스[마음길]|Team Member<br> BE, 기획|완료|2023.10.10~2023.11.17|
 </div>
 <hr>
-
+<div align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYEOM2YEOM2&count_bg=%23F0F0F0&title_bg=%23FFCFCF&icon=youtubegaming.svg&icon_color=%23C84343&title=hits&edge_flat=false"/></a>
+</div>
 
